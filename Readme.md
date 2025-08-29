@@ -1,1 +1,0 @@
-hi new feature is added to this image cropper
